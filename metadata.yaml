@@ -1,0 +1,33 @@
+_repo: The-Secret-Garden_113
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Burnett, Frances Hodgson
+    aliases:
+    - Hodgson, Frances Eliza
+    - Townesend, Frances Eliza Hodgson Burnett
+    birthdate: 1849
+    deathdate: 1924
+    gutenberg_agent_id: '73'
+    url: http://www.gutenberg.org/2009/agents/73
+    wikipedia: http://en.wikipedia.org/wiki/Frances_Hodgson_Burnett
+description: ''
+gutenberg_bookshelf: Children's Literature
+gutenberg_issued: '1994-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '113'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Gardens -- Fiction'
+- !lcsh 'Orphans -- Fiction'
+- !lcsh 'Yorkshire (England) -- Fiction'
+- !lcsh 'People with disabilities -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Secret Garden
+url: http://www.gutenberg.org/ebooks/113
